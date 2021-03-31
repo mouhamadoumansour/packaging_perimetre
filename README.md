@@ -1,5 +1,4 @@
-# Eperimetre_packaging
+# perimetre_packaging
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+Ceci est une bibliotheque python pour retourner le perimetre de certaines figures géométriques. Utilisez le jeu de style
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/) pour faire le format.
